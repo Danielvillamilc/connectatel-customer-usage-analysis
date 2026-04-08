@@ -1,5 +1,3 @@
-# Daniel-repository
-Look my first project in Data Analytics
 🎯 Objective
 
 This project analyzes customer behavior in a telecommunications company (ConnectaTel) operating in Latin America.
